@@ -59,7 +59,7 @@ This is Vrushank Bardolia, 20 Years old boy
 ###
 
 <div align="left">
-  <a href="vrushank1793@gmail.com" target="_blank">
+  <a href="mailto:vrushank1793@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/vrushank-bardolia/" target="_blank">
