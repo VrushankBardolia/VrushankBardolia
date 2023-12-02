@@ -55,7 +55,7 @@ This is Vrushank Bardolia
 
 ###
 
-<h2 align="left">My Socials</h2>
+<h2 align="left">Connect Me</h2>
 
 ###
 
