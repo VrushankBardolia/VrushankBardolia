@@ -1,11 +1,12 @@
 # Hi there 👋
 
-This is Vrushank Bardolia, 20 Years old boy
+This is Vrushank Bardolia
 
 ### About Me
 
-- 📖 Education : BCA (Currently in 3rd Year)
-- 🤩 Hobbies : Flutter, UI/UX Designing
+- 👨‍🎓 Student 
+- 🎨 UI/UX designer 
+- 📱 Flutter developer 
 
 <h2 align="left">Techs</h2>
 
