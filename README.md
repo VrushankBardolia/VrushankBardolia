@@ -9,7 +9,7 @@ This is Vrushank Bardolia
 - 📱 Flutter developer 
 
 ### Portfolio
-Here is a portfolio of my UI/UX Designs:
+Here is a portfolio of my UI/UX Designs: <br>
 [INSTAGRAM](https://instagram.com/vb_uix)
 
 <h2 align="left">Techs</h2>
