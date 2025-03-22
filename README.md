@@ -14,7 +14,7 @@ Here is a portfolio of my UI/UX Designs: <br>
 
 ## Techs
 
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,androidstudio,firebase,postman,figma,github,python,html,css,vscode,java,php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,androidstudio,firebase,postman,figma,github,python,html,css,vscode,java,php,laravel)](https://skillicons.dev)
 
 ## My Stats
 
