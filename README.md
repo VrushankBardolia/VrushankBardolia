@@ -1,46 +1,42 @@
-# Hi there 👋
+# Hi, I'm Vrushank Bardolia 👋
 
-This is Vrushank Bardolia
+**Flutter Developer | UI/UX Enthusiast | Aspiring Frontend Engineer**
 
-### About Me
+---
 
-- 👨‍🎓 Student 
-- 🎨 UI/UX designer 
-- 📱 Flutter developer 
+🌱 **About Me**
 
-### Portfolio
-Here is a portfolio of my UI/UX Designs: <br>
-[INSTAGRAM](https://instagram.com/vb_uix)
+I'm a student passionate about building beautiful and responsive apps for web and mobile. My journey started with Flutter and UI/UX design, and now I'm expanding my skills into frontend web development. I enjoy crafting clean interfaces and seamless user experiences.
 
-## Techs
+- 🛠️ **Tech Stack:**  
+  Flutter | Firebase | Figma | Laravel | HTML | CSS | JavaScript | Bootstrap | Tailwind
 
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,androidstudio,firebase,postman,figma,github,python,html,css,vscode,java,php,laravel)](https://skillicons.dev)
+- 🎨 **Love:**  
+  Clean UI, smooth user flows, building & shipping cool projects!
 
-## My Stats
+---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VrushankBardolia&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=VrushankBardolia&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
+🚀 **Highlighted Projects**
 
-## Connect Me
+- [Book-My-Turf](https://github.com/VrushankBardolia/Book-My-Turf)  
+  🛠️ **Laravel Framework Project**  
+  A web application for easy turf booking, built on Laravel. Focused on intuitive UI and real-time features for a seamless turf reservation experience.
 
-<div align="left">
-  <a href="mailto:vrushank1793@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/vrushank-bardolia/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/vrushank_17/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="instagram logo"  />
-  </a>
-  <a href="https://twitter.com/Vrushank_Tweets" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="twitter logo"  />
-  </a>
-</div>
+- [Seva-Sanskriti](https://github.com/VrushankBardolia/Seva-Sanskriti)  
+  📱 **Flutter App for NGOs**  
+  A mobile platform designed for NGOs to manage, promote, and expand their reach. Combines modern Flutter design with a mission to support community service and cultural engagement.
 
+---
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/VrushankBardolia/count.svg?"  />
-</div>
+📫 **Connect with Me**
+
+- [LinkedIn](https://www.linkedin.com/in/vrushank-bardolia/)
+- [X (Twitter)](https://x.com/Vrushank_Tweets)
+
+---
+
+> “Flutter Developer with a passion for clean UI/UX and building smooth, responsive apps for web and mobile. Currently growing as a frontend developer.”
+
+---
+
+![Vrushank's GitHub stats](https://github-readme-stats.vercel.app/api?username=VrushankBardolia&show_icons=true&theme=radical)
